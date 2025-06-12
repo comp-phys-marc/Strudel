@@ -25,7 +25,7 @@ c5 e5 ~ b5 c e g c5
 c5 e5 ~ c6 c e g c5
 f5 g5 e5 b4 c e g c5
 c e g b f5 g e5 c5
->*8, - - g4 b5`).sound("piano").room(1).late("[0 .01]*4").size(4)
+>*8, - - g4 b5`).sound("piano").room(1).size(4)
 
 $: sound("<bd bd hh bd rim bd hh bd>*8").lpf(500) 
 
